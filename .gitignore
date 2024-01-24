@@ -3,3 +3,5 @@
 /onnxruntime-riscv
 /tensorflow-onnx
 /Tengine-Lite
+/examples/txtai
+tests.*
